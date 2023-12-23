@@ -1,3 +1,19 @@
+1. Proper README 
+2. Integration Tests
+   1. Pit STOP! how to make running these scripts easier?? 
+3. Programatic verification 
+4. Push to GitHub
+
+# About 
+
+This is a crowd sourcing app!
+
+# Getting Started 
+
+# Requirements
+
+## Quickstart
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
